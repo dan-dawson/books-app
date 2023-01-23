@@ -1,0 +1,44 @@
+{ "books": [
+  {
+    "title": "sample book",
+    "pages": [
+      {
+        "text": "This is the start of a amazing book",
+        "image": "assets/sample-book/th.jpeg"
+      },
+      {
+        "text": "This is the next page of a amazing book",
+        "image": ""
+      },
+      {
+        "text": "This is the third page of a amazing book",
+        "image": ""
+      },
+      {
+        "text": "This is the fourth page of a amazing book",
+        "image": ""
+      }
+    ]
+  },{
+    "title": "sample book 2",
+    "pages": [
+      {
+        "text": "This is the start of a amazing book",
+        "image": "assets/sample-book/th.jpeg"
+      },
+      {
+        "text": "This is the next page of a amazing book",
+        "image": ""
+      },
+      {
+        "text": "This is the third page of a amazing book",
+        "image": ""
+      },
+      {
+        "text": "This is the fourth page of a amazing book",
+        "image": ""
+      }
+    ]
+  }
+  ]
+}
